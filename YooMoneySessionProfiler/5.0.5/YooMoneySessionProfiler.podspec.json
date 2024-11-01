@@ -1,0 +1,16 @@
+{
+  "name": "YooMoneySessionProfiler",
+  "version": "5.0.5",
+  "homepage": "https://yoomoney.ru",
+  "authors": "YooMoney Team",
+  "summary": "Core iOS SDK for profiling",
+  "platforms": {
+    "ios": "14.0"
+  },
+  "ios": {
+    "vendored_frameworks": "YooMoneySessionProfiler.xcframework"
+  },
+  "source": {
+    "http": "https://repo.yoomoney.ru/repository/apple-library/ios/YooMoneySessionProfiler/5.0.5/YooMoneySessionProfiler.zip"
+  }
+}
